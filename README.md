@@ -75,7 +75,7 @@ Experiment 1:
 
 Experiment 2:
 - Participants: 35
-- Tasks: 3 code comprehension tasks
+- Tasks: 4 code comprehension tasks
 - Data link: [Access the Data](https://drive.google.com/drive/folders/1tFoCChdtkplacf0LPb4Z0tkz94Zrcs9d) (to be updated)
  
  ## Usage
