@@ -1,7 +1,11 @@
 # Research Dataset for exploring Personalized Code Complexity Metrics
 
 ## Overview
- This repository contains datasets and preprocessing steps used in our research on analyzing EEG and eye tracking data for code comprehension tasks. We conducted experiments with 62 participants, each performing 7 code tasks chosen randomly in 7 runs. The datasets are structured for reproducibility and further analysis.
+ This repository contains the datasets and preprocessing procedures used in our study on analyzing EEG and eye-tracking data during code comprehension tasks.
+
+The data were collected from a total of 62 participants across two controlled experiments. In total, participants completed 7 code comprehension tasks, with tasks assigned across experimental runs.
+
+Specifically, the dataset combines two studies: one involving 27 participants completing 4 code tasks, and another involving 35 participants completing 3 code tasks. This combined dataset provides a more comprehensive basis for analyzing cognitive processes during program comprehension. The datasets are structured for reproducibility and further analysis.
  
  ## Datasets
  We have three important datasets in this experiment:
