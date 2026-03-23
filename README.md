@@ -66,7 +66,7 @@ Specifically, the dataset combines two studies: one involving 27 participants co
  [Click here to view the survey](https://docs.google.com/forms/d/1GcqNIBNRVv6Wu_vaevWs1PNF_P1zYNJP1gT2jDstBTE/edit)
  
  ## Data Access
- You can access all the data used in this research through the following Google Drive links（The data originate from two controlled experiments）:
+ You can access all the data used in this research through the following links（The data originate from two controlled experiments）:
 
 Experiment 1:
 - Participants: 27
@@ -76,7 +76,7 @@ Experiment 1:
 Experiment 2:
 - Participants: 35
 - Tasks: 4 code comprehension tasks
-- Data link: [Access the Data](https://drive.google.com/drive/folders/1tFoCChdtkplacf0LPb4Z0tkz94Zrcs9d) (to be updated)
+- Data link: [Access the Data](https://zenodo.org/records/15106502) (to be updated)
  
  ## Usage
  1. **Download the datasets:**
